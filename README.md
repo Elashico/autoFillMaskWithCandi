@@ -26,7 +26,7 @@ pip install torch transformers
 # Examples of Usage
 
 ```python
-from your_package_name import setTokenModel, show_mask_fill, mask_fill_replaced
+from autoFillMaskWithCandi import setTokenModel, show_mask_fill, mask_fill_replaced
 
 # Set the model for tokenizer
 model_name = "Your-Model-Name-Here"
