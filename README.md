@@ -21,6 +21,7 @@ This Python package provides advanced text processing functionalities utilizing 
 
 ```bash
 pip install torch transformers
+pip install autoFillMaskWithCandi==0.0.3
 ```
 
 # Examples of Usage
